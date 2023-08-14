@@ -7,7 +7,7 @@ Kali Linux
 
 ### Set up DHCP Server on VirtualBox
 From User Directory (eg: C:\Users\Joker>)
-cd / Program Files/Oracle/VirtualBox\
+cd / Program Files/Oracle/VirtualBox
 
-From C:\Program Files/Oracle/Virtual\
+From C:\Program Files/Oracle/Virtual
 
